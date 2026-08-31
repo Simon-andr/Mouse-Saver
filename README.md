@@ -12,7 +12,7 @@ Mouse Saver is an application designed for content creators who want to keep the
 ##  Supported platforms
 
 *  **Linux** — `.deb` available
-*  **Windows** — coming soon
+*  **Windows** — `.exe` available
 *  **MaxOS** — coming soon
 
 ##  Installation
@@ -29,7 +29,7 @@ sudo apt install ./mouse-saver_1.0.2_amd64.deb
 
 ### Windows
 
-Windows support is **coming soon**.
+Download the latest `.exe` package from the [Releases](../../releases) section.
 
 ### MacOS
 
